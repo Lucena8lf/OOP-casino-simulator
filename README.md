@@ -14,10 +14,6 @@ This project is a comprehensive casino simulation implemented in C++ using Objec
 
 - **Comprehensive Resource Management:** In addition to the games, the simulation includes a resource management system, enabling players to manage chips, track winnings and losses, administer their bets, and apply gaming strategies to maximize their earnings.
 
-- **Detailed Statistics and Accurate Results:** The simulation generates comprehensive statistics on game outcomes, offering a breakdown of winnings and losses per game and per player. Players can review their gaming history and evaluate their performance.
-
-- **Visually Appealing User Interface:** A visually appealing user interface has been crafted to replicate the atmosphere and aesthetics of a real casino. Visual and auditory elements contribute to an authentic and immersive gaming experience.
-
 ## Project Structure
 
 The project is structured into multiple directories, each corresponding to a practice completed during the Object-Oriented Programming subject.
